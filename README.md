@@ -68,44 +68,38 @@
 ## Tech Stack
 
 <br />
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5]<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+![CSS3]<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+![TailwindCSS]<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+![Bootstrap]<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
 <!-- 
-![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) 
+![sass] <a href="" target="_blank"> <img src=""/> </a>
 -->
 <br />
 <br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-![Firebase]<a href="https://firebase.google.com/" target="_blank"> <img src="[https://img.icons8.com/color/48/000000/firebase.png](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)"/> </a>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript]<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript"/> </a>
+![TypeScript]<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icons8.com/icon/Xf1sHBmY73hA/typescript"/> </a>
+![NodeJS]<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
+![ExpressJS]<a href="https://expressjs.com/" target="_blank"> <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js"/> </a>
+![MongoDB]<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+![Firebase]<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+![React]<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>
+![Redux]<a href="https://redux.js.org/" target="_blank"> <img src="https://icons8.com/icon/b6vIINYN0kfW/redux-an-open-source-javascript-library-for-managing-application-state"/> </a>
+![Next JS]<a href="https://nextjs.org/" target="_blank"> <img src="https://icons8.com/icon/dszf1dqtMYml/unit"/> </a>
 <!--
-![ChartJs](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![ChartJs]<a href="" target="_blank"> <img src=""/> </a>
+![Vercel]<a href="" target="_blank"> <img src=""/> </a>
+![JEST]<a href="" target="_blank"> <img src=""/> </a>
+![Ruby]<a href="" target="_blank"> <img src=""/> </a>
+![Shell Scripting]<a href="" target="_blank"> <img src=""/> </a>
 -->
 <br />
 <br />
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma]<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+![Netlify]<a href="https://www.netlify.com/" target="_blank"> <img src="https://icons8.com/icon/YsPdguLCFOMH/netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites."/> </a>
+![Markdown]<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://icons8.com/icon/50145/markdown"/> </a>
+![Notion]<a href="https://www.notion.so/" target="_blank"> <img src="https://icons8.com/icon/FUwceJUAs8kb/notion"/> </a>
 <br />
-<br />
-<!-- 
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
--->
 <br />
 
 <div align="center">
