@@ -68,24 +68,22 @@
 ## Tech Stack
 
 <br />
-![HTML5]<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-![CSS3]<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-![TailwindCSS]<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-![Bootstrap]<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-<!-- 
-![sass] <a href="" target="_blank"> <img src=""/> </a>
--->
+<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+<a href="https://sass-lang.com/" target="_blank"> <img src="https://icons8.com/icon/QBqFNfPPB2Kx/sass"/> </a>
 <br />
 <br />
-![JavaScript]<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icons8.com/icon/tGvHBPJaKqEd/javascript"/> </a>
-![TypeScript]<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icons8.com/icon/Xf1sHBmY73hA/typescript"/> </a>
-![NodeJS]<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
-![ExpressJS]<a href="https://expressjs.com/" target="_blank"> <img src="https://icons8.com/icon/2ZOaTclOqD4q/express-js"/> </a>
-![MongoDB]<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
-![Firebase]<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
-![React]<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>
-![Redux]<a href="https://redux.js.org/" target="_blank"> <img src="https://icons8.com/icon/b6vIINYN0kfW/redux-an-open-source-javascript-library-for-managing-application-state"/> </a>
-![Next JS]<a href="https://nextjs.org/" target="_blank"> <img src="https://icons8.com/icon/dszf1dqtMYml/unit"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icons8.com/icon/108784/javascript"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://icons8.com/icon/Xf1sHBmY73hA/typescript"/> </a>
+<a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> </a>
+<a href="https://expressjs.com/" target="_blank"> <img src="https://icons8.com/icon/kg46nzoJrmTR/express-js"/> </a>
+<a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
+<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/dusk/48/000000/react.png"/> </a>
+<a href="https://redux.js.org/" target="_blank"> <img src="https://icons8.com/icon/b6vIINYN0kfW/redux-an-open-source-javascript-library-for-managing-application-state"/> </a>
+<a href="https://nextjs.org/" target="_blank"> <img src="https://icons8.com/icon/dszf1dqtMYml/unit"/> </a>
 <!--
 ![ChartJs]<a href="" target="_blank"> <img src=""/> </a>
 ![Vercel]<a href="" target="_blank"> <img src=""/> </a>
@@ -95,10 +93,10 @@
 -->
 <br />
 <br />
-![Figma]<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
-![Netlify]<a href="https://www.netlify.com/" target="_blank"> <img src="https://icons8.com/icon/YsPdguLCFOMH/netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites."/> </a>
-![Markdown]<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://icons8.com/icon/50145/markdown"/> </a>
-![Notion]<a href="https://www.notion.so/" target="_blank"> <img src="https://icons8.com/icon/FUwceJUAs8kb/notion"/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img src="https://icons8.com/icon/YsPdguLCFOMH/netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites."/> </a>
+<a href="https://www.markdownguide.org/" target="_blank"> <img src="https://icons8.com/icon/50145/markdown"/> </a>
+<a href="https://www.notion.so/" target="_blank"> <img src="https://icons8.com/icon/FUwceJUAs8kb/notion"/> </a>
 <br />
 <br />
 
