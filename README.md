@@ -73,7 +73,7 @@
 ## Tech Stack
 
 <br />
-<p align="center">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</p>  
+<!-- <p align="center">𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:</p>  -->
 <p align="center">
 	<a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
 	<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -106,4 +106,4 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Sayed-Oni)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni&custom_title=Oni's%20Contribution%20Graph&theme=react-dark) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sayed-Oni&custom_title=Oni's%20Contribution%20Graph&theme=react-dark) -->
