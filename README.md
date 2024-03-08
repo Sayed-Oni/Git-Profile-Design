@@ -31,12 +31,6 @@
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 </div>
 
-<div align="center">
-	<a href="">
-	  	<img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-		  	alt="snake" /></a>
-</div>
-
 <p align="center">
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h3>
@@ -61,7 +55,15 @@
 <!-- 		<a style="margin-left: 10px;" target="_blank" href="">
 				<img src="https://img.icons8.com/doodle/40/000000/youtube--v2.png" ></a> -->
 
-</p> 
+</p>
+
+<div align="center">
+	<a href="">
+	  	<img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+		  	alt="snake" /></a>
+</div>
+
+ 
 
 <!-- <p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p> -->
 
