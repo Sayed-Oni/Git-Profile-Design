@@ -31,8 +31,6 @@
 <!-- - 📄 Know about my experiences <a href="" target="blank">Resume</a> -->
 </div>
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h3>
-
 <div align="center">
 	<a href="">
 	  	<img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
@@ -40,6 +38,8 @@
 </div>
 
 <p align="center">
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> </h3>
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
 	 <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sayed-Oni">
